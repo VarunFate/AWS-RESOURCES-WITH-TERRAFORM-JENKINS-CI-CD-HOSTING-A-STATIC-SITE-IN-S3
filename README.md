@@ -1,6 +1,3 @@
-Certainly! Below is a `README.md` file based on your provided blog content, which outlines the steps and prerequisites to set up an Infrastructure as Code (IaC) solution using Terraform, Jenkins, and AWS.
-
----
 
 # Infrastructure as Code with Terraform, Jenkins, and AWS
 
@@ -117,7 +114,4 @@ This repository contains:
 
 By following this guide, you will learn how to use Terraform and Jenkins to automate your AWS infrastructure provisioning, manage your state files, and integrate these tools to build a robust and efficient CI/CD pipeline. This will help you harness the power of Infrastructure as Code to streamline your cloud operations and boost productivity.
 
----
-
-Feel free to use and modify this `README.md` to fit your exact requirements or specific implementations!
 
